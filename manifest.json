@@ -1,0 +1,18 @@
+{
+  "header" : {
+    "version" : [ 1, 1, 5 ],
+		"description" : "\u00A74Light and fluffy\n\u00A76By Dokucraft TSC",
+        "name" : "Light",
+		"uuid" : "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+			"version" : [ 1, 1, 5 ],
+			"description" : "\u00A74Light and fluffy\n\u00A76By Dokucraft TSC",
+            "type" : "resources",
+            "uuid" : "743f6949-53be-44b6-b326-398005028819"
+        }
+    ],
+    "format_version" : 1
+}
