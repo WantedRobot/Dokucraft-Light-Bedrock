@@ -97,11 +97,6 @@
     "atlas_tile": "kelp_top_bulb",
     "frames": [ 0,1,2,3,4,5,6,7,8,9 ]
   },
-  { 
-    "flipbook_texture": "textures/blocks/lantern",
-    "atlas_tile": "lantern",
-	"frames": [ 0,1 ]
-  },
   {
     "flipbook_texture": "textures/blocks/lava_flow",
     "atlas_tile": "flowing_lava",
