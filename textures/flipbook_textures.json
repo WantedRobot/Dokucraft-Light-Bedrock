@@ -8,6 +8,16 @@
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
   },
   {
+    "flipbook_texture": "textures/blocks/blue_fire_0",
+    "atlas_tile": "blue_fire_0",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/blue_fire_1",
+    "atlas_tile": "blue_fire_1",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 ]
+  },
+  {
     "flipbook_texture": "textures/blocks/brewing_stand",
     "atlas_tile": "brewing_stand",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39 ]
@@ -41,6 +51,16 @@
     "flipbook_texture": "textures/blocks/conduit_wind_vertical",
     "atlas_tile": "conduit_wind_vertical",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/huge_fungus/crimson_log_side",
+    "atlas_tile": "crimson_log_side",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/huge_fungus/crimson_log_top",
+    "atlas_tile": "crimson_log_top",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
   },
   {
     "flipbook_texture": "textures/blocks/enchanting_table_side",
@@ -183,9 +203,24 @@
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ]
   },
   {
+    "flipbook_texture": "textures/blocks/shroomlight",
+    "atlas_tile": "shroomlight",
+    "frames": [ 0,1,2,3 ]
+  },
+  {
     "flipbook_texture": "textures/blocks/smoker_front_on",
     "atlas_tile": "smoker_front_on",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/soul_lantern",
+    "atlas_tile": "soul_lantern",
+    "frames": [ 0,1,2,3 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/soul_torch",
+    "atlas_tile": "soul_torch",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63 ]
   },
   {
     "flipbook_texture": "textures/blocks/stonecutter2_saw",
@@ -196,6 +231,21 @@
     "flipbook_texture": "textures/blocks/torch_on",
     "atlas_tile": "torch_on",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/huge_fungus/warped_stem_side",
+    "atlas_tile": "warped_stem_side",
+    "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/warped_roots",
+    "atlas_tile": "warped_roots",
+    "frames": [ 0,1 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/warped_roots_pot",
+    "atlas_tile": "warped_roots_pot",
+    "frames": [ 0,1 ]
   },
   {
     "flipbook_texture": "textures/blocks/water_flow",
@@ -324,6 +374,11 @@
     "flipbook_texture": "textures/items/iron_ingot",
     "atlas_tile": "iron_ingot",
     "frames": [ 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 ]
+  },
+  {
+    "flipbook_texture": "textures/items/netherite_ingot",
+    "atlas_tile": "netherite_ingot",
+    "frames": [ 0,1,2,3,4,5,6,7,8 ]
   },
   {
     "flipbook_texture": "textures/items/redstone_dust",
